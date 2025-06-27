@@ -51,7 +51,7 @@
    npm run dev  
    ```  
 5. **Prueba las rutas** con Postman aqui la documentacion
-https://yuverlyhidokun-8075884.postman.co/workspace/Yuverly-Hidokun's-Workspace~5668c5b7-9f81-450b-810c-826f9a8d3f3e/collection/45722341-a70f69bb-9749-442f-9e86-939c227be062?action=share&creator=45722341
+(Insertar link cuando este listo)
 
 ## 🤝 Colaboradores  
 - [@Alejandra Moreno](https://github.com/Aleja82)  
